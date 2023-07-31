@@ -1,4 +1,3 @@
-
 ![](https://github.com/pablorigueto/lottie-on-react-native/blob/main/x-button.gif)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
